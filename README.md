@@ -1,4 +1,5 @@
-## Predicting and Understanding Factors Affecting Secondary Student Performance This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
+## Predicting and Understanding Factors Affecting Secondary Student Performance 
+This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
 ## Project Status: Completed
 
